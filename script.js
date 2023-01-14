@@ -1,3 +1,7 @@
+
+
+
+
 let navbar = document.querySelector('.header .navbar')
 let menuBtn = document.querySelector('#menu-btn')
 
@@ -15,6 +19,13 @@ var swiper = new Swiper(".home-slider", {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev",
   },
-});
+})
+
+
+// lightGallery(document.getElementById('gallery-container'), {
+//   speed: 500,
+//   mode: 'lg-fade'
+// });
+
 
 
