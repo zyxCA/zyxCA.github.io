@@ -145,7 +145,7 @@ section {
   width: 70rem;
 }
 .home .slide .content h3 {
-  font-size: 8vw;
+  font-size: 4vw;
   text-transform: uppercase;
   color: var(--white);
   text-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
@@ -542,7 +542,7 @@ section {
     font-size: 55%;
   }
   .home .slide .content h3 {
-    font-size: 12vw;
+    font-size: 4vw;
   }
 }
 
@@ -590,6 +590,6 @@ section {
     font-size: 50%;
   }
   .home .slide .content h3 {
-    font-size: 6rem;
+    font-size: 8vw;
   }
 }
