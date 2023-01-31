@@ -1,0 +1,12 @@
+.gallery-session {
+  background-color: rgb(255, 232, 208);
+}
+.gallery-heading {
+  font-size: 4rem;
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  margin: auto;
+}
